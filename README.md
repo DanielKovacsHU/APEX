@@ -1,7 +1,8 @@
 
 <p align="center">
   <!-- APEX logo -->
-  <img width="684" height="380" alt="apex 2 0" src="https://github.com/user-attachments/assets/8bddc042-70ac-4ffc-bba3-6ea98b67b6c9" />
+  <img width="800" height="444" alt="apex 2 0" src="https://github.com/user-attachments/assets/e63d023f-b5d1-452f-8058-cf35ab6a8726" />
+
 </p>
 
 
